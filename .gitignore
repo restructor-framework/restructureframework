@@ -45,21 +45,20 @@ node_modules
 package-lock.json
 **/webpack.generated.js
 
-flow-tests/**/package.json
-flow-tests/**/webpack*.js
-flow-tests/**/tsconfig.json
-flow-tests/**/pnpm-lock.yaml
-flow-tests/**/index.html
+demo-app/**/package.json
+demo-app/**/webpack*.js
+demo-app/**/tsconfig.json
+demo-app/**/pnpm-lock.yaml
+demo-app/**/index.html
 yarn.lock
 
-flow-client/src/main/frontend/FlowClient.js
-flow-tests/**/types.d.ts
-flow-tests/**/*.generated.js
-flow-tests/**/*.generated.ts
-flow-tests/**/vite.config.ts
-flow-tests/**/generated/**
-flow-tests/**/pnpmfile.js
-flow-tests/**/.pnpmfile.cjs
-flow-tests/**/*.npmrc
+demo-app/**/types.d.ts
+demo-app/**/*.generated.js
+demo-app/**/*.generated.ts
+demo-app/**/vite.config.ts
+demo-app/**/generated/**
+demo-app/**/pnpmfile.js
+demo-app/**/.pnpmfile.cjs
+demo-app/**/*.npmrc
 
 *.xml.versionsBackup
