@@ -12,7 +12,7 @@
 		<module>restructure-util</module>
 		<module>restructure-core</module>
 		<module>restructure-shared</module>
-		<module>demo-app</module>
+		<module>restructure-demo-app</module>
 	</modules>
 
 	<properties>
@@ -20,6 +20,10 @@
 		<vaadin.version>23.1.7</vaadin.version>
 		<slf4j.version>2.0.3</slf4j.version>
 		<servlet.api.version>3.1.0</servlet.api.version>
+
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+
 	</properties>
 
 	<dependencies>
