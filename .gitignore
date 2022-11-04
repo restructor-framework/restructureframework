@@ -45,20 +45,20 @@ node_modules
 package-lock.json
 **/webpack.generated.js
 
-demo-app/**/package.json
-demo-app/**/webpack*.js
-demo-app/**/tsconfig.json
-demo-app/**/pnpm-lock.yaml
-demo-app/**/index.html
+restructure-demo-app/**/package.json
+restructure-demo-app/**/webpack*.js
+restructure-demo-app/**/tsconfig.json
+restructure-demo-app/**/pnpm-lock.yaml
+restructure-demo-app/**/index.html
 yarn.lock
 
-demo-app/**/types.d.ts
-demo-app/**/*.generated.js
-demo-app/**/*.generated.ts
-demo-app/**/vite.config.ts
-demo-app/**/generated/**
-demo-app/**/pnpmfile.js
-demo-app/**/.pnpmfile.cjs
-demo-app/**/*.npmrc
+restructure-demo-app/**/types.d.ts
+restructure-demo-app/**/*.generated.js
+restructure-demo-app/**/*.generated.ts
+restructure-demo-app/**/vite.config.ts
+restructure-demo-app/**/generated/**
+restructure-demo-app/**/pnpmfile.js
+restructure-demo-app/**/.pnpmfile.cjs
+restructure-demo-app/**/*.npmrc
 
 *.xml.versionsBackup
