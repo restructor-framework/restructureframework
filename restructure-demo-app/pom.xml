@@ -7,11 +7,7 @@
 	</parent>
 	<artifactId>restructure-demo-app</artifactId>
 	<packaging>war</packaging>
-	
-	<properties>
-		
-	</properties>
-	
+
 	<build>
 		<plugins>
 			<plugin>
@@ -22,6 +18,7 @@
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
 			</plugin>
+
 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-maven-plugin</artifactId>
